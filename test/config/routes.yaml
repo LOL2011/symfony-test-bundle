@@ -1,0 +1,22 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+
+# the test listing products page in the main app
+#listing-products:
+#   path: /listing-products
+#    controller: App\Controller\ProductController::listingProductsAction
+
+
+# the TestBundle page 1
+# bundle_page_1:
+ #    path: /page1
+ #    controller: TestBundle::page1
+    
+    
+# the TestBundle page 2
+# bundle_page_2:
+ #    path: /page2
+ #    controller: TestBundle::page2
+
